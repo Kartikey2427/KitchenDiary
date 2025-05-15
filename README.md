@@ -20,7 +20,7 @@ Welcome to **Kitchen Diary**, a full-stack cooking blog platform where users can
 ![image](https://github.com/user-attachments/assets/c61edf74-9f86-4494-a813-2882142d7c63)
 ![image](https://github.com/user-attachments/assets/47ca6e5a-52a0-4dc3-afb4-035febd81676)
 ![image](https://github.com/user-attachments/assets/28bbc19e-001a-4335-90b5-a3ed0c2e8a73) -->
-![Food Blog Site](https://github.com/user-attachments/assets/8f443fd8-c5dd-4fa2-bcd2-785dcc1c39e4)
+![Food Blog Site](https://github.com/user-attachments/assets/ea324821-fa04-48cf-b002-01d82da68ffb)
 
 <br/>
 
