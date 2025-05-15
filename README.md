@@ -17,6 +17,9 @@ Welcome to **Kitchen Diary**, a full-stack cooking blog platform where users can
 # Screenshots 🏝️🍹
 
 ![image](https://github.com/user-attachments/assets/6e2f8ad4-89fd-48bb-abfd-9d751adb53a8)
+![image](https://github.com/user-attachments/assets/c61edf74-9f86-4494-a813-2882142d7c63)
+![image](https://github.com/user-attachments/assets/47ca6e5a-52a0-4dc3-afb4-035febd81676)
+![image](https://github.com/user-attachments/assets/28bbc19e-001a-4335-90b5-a3ed0c2e8a73)
 
 <br/>
 
